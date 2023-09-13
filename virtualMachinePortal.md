@@ -2,7 +2,7 @@
 #
 #
 This document describes the steps involved in provisioning a virtual machine using the Azure portal.
-
+#
 
 After we open the the Virtual Machines blade in Azure Portal, follow the mentioned steps: -
 **Step 1** -> The first tab we get is the Basics tab which contains the general information about our VM. We start with selecting a Resource Group for our Virtual Machine or creating a new one.
