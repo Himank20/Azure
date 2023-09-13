@@ -5,7 +5,7 @@
 
 - 👨‍💻 I am looking for career opportunities in Azure Administration and Azure DevOps Engineer
 
-- 💬 Ask me about **Azure Administration and DevOsp**
+- 💬 Ask me about **Azure Administration and DevOps**
 
 - 📫 How to reach me **himankjain79@gmail.com**
 
