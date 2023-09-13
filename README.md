@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 I am looking for career opportunities in [Azure Administration and Azure DevOps Engineer](Azure Administration and Azure DevOps Engineer)
+- 👨‍💻 I am looking for career opportunities in Azure Administration and Azure DevOps Engineer
 
 - 💬 Ask me about **Azure Administration and DevOsp**
 
