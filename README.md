@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Azure Administration and DevOsp**
+- 💬 Ask me about **Azure Administration and DevOps**
 
 - 📫 How to reach me **himankjain79@gmail.com**
 
